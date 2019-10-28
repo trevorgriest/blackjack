@@ -1,0 +1,17 @@
+{
+  "name": "blackjackproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@trevorgriest <tgriest1981@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blackjack-dealer-logic": "^1.1.4",
+    "playing-card-deck-generator": "^2.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development --content-base docs/ --open --hot"
+  }
+}
