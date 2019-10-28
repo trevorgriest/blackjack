@@ -16,28 +16,28 @@
 
 #playButton{
   color: black;
-  padding: .5rem;
-  margin: .5rem;
+  padding: 1rem;
+  margin: 1rem;
   border-radius: 2rem;
 }
 
 #hitButton{
   color: black;
-  padding: .5rem;
-  margin: .5rem;
+  padding: 1rem;
+  margin:1rem;
   border-radius: 2rem;
 }
 
 #standButton{
   color: black;
-  padding: .5rem;
-  margin: .5rem;
+  padding: 1rem;
+  margin: 1rem;
   border-radius: 2rem;
 }
 
 #doubleButton{
   color: black;
-  padding: .5rem;
-  margin: .5rem;
+  padding: 1rem;
+  margin: 1rem;
   border-radius: 2rem;
 }
