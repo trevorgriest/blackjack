@@ -8,7 +8,7 @@
     "blackjack-dealer-logic": "^1.1.4",
     "playing-card-deck-generator": "^2.0.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0"
   },
   "scripts": {
